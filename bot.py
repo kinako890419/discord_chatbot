@@ -15,6 +15,7 @@ load_dotenv(find_dotenv())
 # CHANNEL_ID = os.getenv("CHANNEL_ID")
 TOKEN = os.getenv("DISCORD_TOKEN")
 
+
 @bot.event
 async def on_ready():
     print(f"目前登入身份 --> {bot.user}")

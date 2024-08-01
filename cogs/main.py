@@ -203,16 +203,16 @@ class Main(commands.Cog):
     # type !tutorial to return tutorial message
     async def tutorial(self, ctx):
         try:
-            mes = f"\n\
-    ## 指令教學\n\
-    1. 使用 !question <問題> 進行塔羅占卜\n\
-    2. 使用 !chat <對話> 聊天\n\
-    3. 使用 !complain <抱怨> 抱怨，AI可能會兇你\n\
-    4. 使用 !why <問題> 進行問答 \n \
-    \n\n\
-    ## 注意事項 \n\
-    使用頻率不要太高，不然我不知道哪天google會不會跟我收費\n\
-            "
+            mes = f"""
+## 指令教學
+1. 使用 !question <問題> 進行塔羅占卜
+2. 使用 !chat <對話> 聊天
+3. 使用 !complain <抱怨> 抱怨，AI可能會兇你
+4. 使用 !why <問題> 進行問答
+
+## 注意事項
+使用頻率不要太高，不然我不知道哪天google (跟 AWS?) 會不會跟我收費
+            """
             await ctx.send(mes)
 
         except Exception as e:
