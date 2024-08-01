@@ -1,9 +1,7 @@
 # Discord 聊天(?)機器人
----
 說明待補
 
 ## 參考資料
----
 - [tarot_zhtw.json (github.com)](https://gist.github.com/penut85420/e0d7dc33155c86c918375d09123f9c1d)
 - [Python Discord Bot 進階教學 — Cog 篇 - HackMD](https://hackmd.io/@smallshawn95/python_discord_bot_cog)
 - [【教學】EP 2 - Discord.py 之 Cog 篇 | Kuo's Blog (huangmayor0905.github.io)](https://huangmayor0905.github.io/discord-bot-02/)
