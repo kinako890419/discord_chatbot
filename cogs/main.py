@@ -39,18 +39,11 @@ class Main(commands.Cog):
         # discord.Status.<狀態>，可以是online,offline,idle,dnd,invisible
         await self.bot.change_presence(status=discord.Status.online, activity=game)
 
-        # # automatic send a message when the bot is online
-        # channel = self.bot.get_channel(CHANNEL_ID)
-        # await channel.send("原神 啟動！")
-        #
-        # print(f'Logged in as {self.bot.user.name}')
-
     @commands.command()
     async def question(self, ctx, *, question):
         try:
 
             card_result, card_name, card_info = get_random_tarot_info()
-            # context = "我不想寫論文"
 
             tarot_reply = (f"你是一個占卜師，在進行塔羅占卜。接下來的對話我會提出我的問題，以下是我抽到的三張牌。"
                            f"解釋牌面的意義後，利用繁體中文根據我的問題給出解答，最後再做出總結與建議。"
