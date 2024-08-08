@@ -1,5 +1,12 @@
 # Discord 聊天(?)機器人
+
 說明待補
+總之就是有串 gemini API 的潑你冷水機器人
+
+## 受害者們(?)
+
+![image](https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47|500)
+
 
 ## 參考資料
 - [tarot_zhtw.json (github.com)](https://gist.github.com/penut85420/e0d7dc33155c86c918375d09123f9c1d)
