@@ -5,7 +5,7 @@
 
 ## 受害者們(?)
 
-<br /><img src="https://imgur.com/pUCrkRX.png](https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47)" alt="png" width="45%"/>
+<br /><img src="https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47" alt="png" width="45%"/>
 
 ## 參考資料
 - [tarot_zhtw.json (github.com)](https://gist.github.com/penut85420/e0d7dc33155c86c918375d09123f9c1d)
