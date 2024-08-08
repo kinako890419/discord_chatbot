@@ -5,7 +5,7 @@
 
 ## 受害者們(?)
 
-![image](https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47=250x)
+![image](https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47 =250x)
 
 
 
