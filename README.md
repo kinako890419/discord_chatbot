@@ -5,8 +5,13 @@
 
 ## 使用範例
 
-<br /><img src="https://github.com/user-attachments/assets/7773252d-266b-4f1f-906b-515b1801df1b" alt="png" width="45%"/>
-<br /><img src="https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47" alt="png" width="45%"/>
+<br /><img src="https://github.com/user-attachments/assets/7773252d-266b-4f1f-906b-515b1801df1b" alt="png" width="85%"/>
+
+#### 指令教學
+- 使用 `!question <問題>` 進行塔羅占卜
+- 使用 `!chat <對話>` 聊天
+- 使用 `!complain <抱怨>` 抱怨，AI可能會兇你
+- 使用 `!why <問題>` 進行問答
 
 ## 參考資料
 - [tarot_zhtw.json (github.com)](https://gist.github.com/penut85420/e0d7dc33155c86c918375d09123f9c1d)
