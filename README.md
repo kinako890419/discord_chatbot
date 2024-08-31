@@ -3,8 +3,9 @@
 說明待補
 總之就是有串 gemini API 的潑你冷水機器人
 
-## 受害者們(?)
+## 使用範例
 
+<br /><img src="https://github.com/user-attachments/assets/7773252d-266b-4f1f-906b-515b1801df1b" alt="png" width="45%"/>
 <br /><img src="https://github.com/user-attachments/assets/db2104cd-3893-4178-b45b-e1c921231b47" alt="png" width="45%"/>
 
 ## 參考資料
